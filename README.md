@@ -1,4 +1,4 @@
-vcr
+MIT VCR
 ===
 
 [![Build](https://img.shields.io/travis/vcr/vcr/master.svg?style=flat-square)](https://travis-ci.org/vcr/vcr)
@@ -9,11 +9,9 @@ vcr
 [![OpenCollective](https://opencollective.com/vcr/sponsors/badge.svg?style=flat-square)](https://opencollective.com/vcr#sponsor)
 
 
+This is a fork of [vcr](https://github.com/vcr/vcr) before that project [changed its license](https://github.com/vcr/vcr/commit/380bfb1a60387776418819b3b081d2a26e402291) to the [Hippocratic License](https://firstdonoharm.dev/). You may use this project under the terms of the MIT license.
+
 Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
-
-**Help Wanted**
-
-We're looking for more maintainers. If you'd like to help maintain a well-used gem please spend some time reviewing pull requests, issues, or participating in discussions.
 
 Usage
 =====
